@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zenmartee LLC</title>
+<style>
+body{
+font-family:Arial,sans-serif;
+margin:0;
+background:#f5f5f5;
+text-align:center;
+}
+header{
+background:#0d6efd;
+color:white;
+padding:60px 20px;
+}
+section{
+padding:40px 20px;
+}
+footer{
+background:#222;
+color:white;
+padding:20px;
+}
+.btn{
+display:inline-block;
+background:#0d6efd;
+color:white;
+padding:12px 24px;
+text-decoration:none;
+border-radius:5px;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Welcome to Zenmartee LLC</h1>
+<p>Your Trusted E-commerce Business Partner</p>
+<a class="btn" href="mailto:info@zenmarteellc.com">Contact Us</a>
+</header>
+
+<section>
+<h2>About Us</h2>
+<p>Zenmartee LLC is committed to providing quality products and reliable online shopping services.</p>
+</section>
+
+<section>
+<h2>Our Mission</h2>
+<p>Deliver value, quality, and customer satisfaction through e-commerce.</p>
+</section>
+
+<footer>
+<p>© 2026 Zenmartee LLC. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
